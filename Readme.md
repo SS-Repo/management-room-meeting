@@ -49,4 +49,4 @@ pré-requisitos do projeto:
 * [Documentação oficial do Lombok](https://projectlombok.org/)
 * [Referência para o padrão arquitetural REST](https://restfulapi.net/)
 
-email:sergiosilveira.desenvolvedor.web@gmail.com
+email:sergio.desenvolvedor.web@gmail.com
